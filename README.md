@@ -12,9 +12,10 @@ A Escola Austríaca de economia tem uma abordagem distinta em relação ao cálc
 Para calcular a taxa de inflação usando o M2, podemos aplicar a seguinte fórmula:
 
   Taxa de Inflação=((M2 inicial - M2 final) / M2 inicial ​ )×100
+  
 //------------------------------------------------------------------------------------------------------------------------//
 
-                                          Finalidade do Codigo
+  Finalidade do Codigo
 O Codigo tem como objetivo calcular o yild real de inflação com base na abordagem da Escola Austríaca de economia.
 
 - **Parâmetros:**
@@ -27,11 +28,11 @@ O Codigo tem como objetivo calcular o yild real de inflação com base na aborda
 - **Cálculo da Taxa de Inflação:**
   - A função calcula a taxa de inflação utilizando a seguinte fórmula:
     
-    Taxa de Inflação M2 =((M2 inicial - M2 final) / M2 inicial ​ )×100
-    Taxa de Inflação IPC = ((IPCA/IPC inicial - IPCA/IPC final) / IPCA/IPC inicial ​ )×100
-    Total Acumulado = Taxa de Inflação M2 +  Taxa de Inflação IPCA
+        Taxa de Inflação M2 =((M2 inicial - M2 final) / M2 inicial ​ )×100
+        Taxa de Inflação IPC = ((IPCA/IPC inicial - IPCA/IPC final) / IPCA/IPC inicial ​ )×100
+        Total Acumulado = Taxa de Inflação M2 +  Taxa de Inflação IPCA
 
-    Yild_Final = Yild do Periodo - Total Acumulado #Em %
+        Yild_Final = Yild do Periodo - Total Acumulado #Em %
     
   - Esta fórmula determina a variação percentual entre o valor final e o valor inicial da oferta monetária (M2), expressando a mudança como uma porcentagem da base inicial.
 
