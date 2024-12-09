@@ -1,3 +1,4 @@
+# YILD REAl
 
 A Escola Austríaca de economia tem uma abordagem distinta em relação ao cálculo da inflação, diferenciando-se das abordagens mais convencionais, como a do mainstream econômico.
 
@@ -40,4 +41,4 @@ O Codigo tem como objetivo calcular o yild real de inflação com base na aborda
   - A função retorna a taxa de inflação calculada como um número decimal, representando a porcentagem de mudança na oferta monetária durante o período considerado;
   - A Função Retorna o Total Acumulado do Periodo.
   - 
-  - //------------------------------------------------------------------------------------------------------------------------//
+  //------------------------------------------------------------------------------------------------------------------------//
